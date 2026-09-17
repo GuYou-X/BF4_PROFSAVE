@@ -16,7 +16,7 @@ GstRender.AmbientOcclusion 0
 GstRender.AnisotropicFilter  1
 GstRender.AntiAliasingDeferred 0
 GstRender.AntiAliasingPost 0
-GstRender.Brightness 1.000000
+GstRender.Brightness 0.750000
 GstRender.ColorBlindMode 0
 GstRender.ConsoleAntiAlias 1
 GstRender.Contrast 0.500000
